@@ -1,4 +1,4 @@
-# dice_app
+# Dice App
 
 A quick dice Flutter App for iOS / Android worlds
 
